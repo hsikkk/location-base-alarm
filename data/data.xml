@@ -1,0 +1,24 @@
+<bus>
+	<route name="104">
+		<station name="KAIST">
+			<no>1</no>
+			<x>100</x>
+			<y>100</y>
+		</station>
+		<station name="Yuseong">
+			<no>2</no>
+			<x>160</x>
+			<y>100</y>
+		</station>
+		<station name="CNU">
+			<no>3</no>
+			<x>160</x>
+			<y>150</y>
+		</station>
+		<station name="End">
+			<no>4</no>
+			<x>300</x>
+			<y>150</y>
+		</station>
+	</route>
+    </bus>
